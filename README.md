@@ -11,7 +11,7 @@
 
   <!-- Badge contador de visitantes -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KauaAndrade-Unicamp&style=for-the-badge&color=2ecc71" alt="Contador de Visitas" />
+    <img src="https://komarev.com/ghpvc/?username=kauahsa&style=for-the-badge&color=2ecc71" alt="Contador de Visitas" />
   </p>
 </div>
 
@@ -25,12 +25,12 @@
 
 <!-- Cards de estatísticas simplificados -->
 <div align="center">
-  <!-- Nota: Substitua "KauaAndrade-Unicamp" pelo seu nome de usuário real no GitHub -->
+  <!-- Nota: Substitua "kauahsa" pelo seu nome de usuário real no GitHub -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaAndrade-Unicamp&show_icons=true&theme=vue&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauahsa&show_icons=true&theme=vue&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAndrade-Unicamp&layout=compact&theme=vue&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauahsa&layout=compact&theme=vue&hide_border=true" />
   </a>
 </div>
 <!-- Divisor estilizado -->
@@ -107,13 +107,13 @@
 
 <!-- Gráfico de contribuições estilizado -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauaAndrade-Unicamp&theme=vue&hide_border=true&background=00000000&stroke=2ecc71&ring=27ae60&fire=27ae60&currStreakNum=27ae60&sideNums=27ae60&currStreakLabel=2ecc71&sideLabels=2ecc71&dates=27ae60" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauahsa&theme=vue&hide_border=true&background=00000000&stroke=2ecc71&ring=27ae60&fire=27ae60&currStreakNum=27ae60&sideNums=27ae60&currStreakLabel=2ecc71&sideLabels=2ecc71&dates=27ae60" />
 </div>
 
 <!-- Gráfico de contribuição -->
 <div align="center">
   <h3>Contribuições</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaAndrade-Unicamp&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauahsa&theme=vue" />
 </div>
 
 <!-- Divisor estilizado -->
@@ -125,11 +125,11 @@
 
 <!-- Cards de repositórios em layout inovador -->
 <div align="center">
-  <a href="https://github.com/KauaAndrade-Unicamp/Projeto-Recanto">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KauaAndrade-Unicamp&repo=Projeto-Recanto&theme=vue&hide_border=true&bg_color=00000000" />
+  <a href="https://github.com/kauahsa/Projeto-Recanto">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kauahsa&repo=Projeto-Recanto&theme=vue&hide_border=true&bg_color=00000000" />
   </a>
-  <a href="https://github.com/KauaAndrade-Unicamp/projeto-social">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KauaAndrade-Unicamp&repo=projeto-social&theme=vue&hide_border=true&bg_color=00000000" />
+  <a href="https://github.com/kauahsa/projeto-social">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kauahsa&repo=projeto-social&theme=vue&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 
@@ -141,10 +141,10 @@
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
 <div align="center">
-  <a href="https://github.com/KauaAndrade-Unicamp" target="_blank">
+  <a href="https://github.com/kauahsa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/KauaAndrade-Unicamp/" target="_blank">
+  <a href="https://www.linkedin.com/in/kauahsa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:seu-email@example.com" target="_blank">
