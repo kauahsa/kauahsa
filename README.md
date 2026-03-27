@@ -32,14 +32,14 @@
 
 ```typescript
 const kaua = {
-  location : "Campinas, SP 🇧🇷",
-  education: "Unicamp — Ciência da Computação",
+  location : "Limeira, SP 🇧🇷",
+  education: "Unicamp — Sistema da Informação",
   focus    : ["Full Stack Dev", "Systems Programming"],
   languages: ["C/C++", "Python", "JavaScript",
               "TypeScript", "Java", "C#", "PHP"],
   stack    : ["React", "Node.js", "REST APIs"],
   tools    : ["Git", "Linux", "VSCode"],
-  motto    : "Código limpo é código respeitoso 🧠"
+  motto    : "Código limpo"
 };
 ```
 
