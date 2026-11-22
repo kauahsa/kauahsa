@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 76" role="img" aria-labelledby="title">
+  <title id="title">Player 2 · Press Start</title>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5h4" stroke="#4d2844" stroke-width="1"/>
+    </pattern>
+    <g id="slashes" fill="#e64928">
+      <path d="M0 0h10L0 22h-10zm17 0h10L17 22H7zm17 0h10L34 22H24z"/>
+    </g>
+  </defs>
+  <path fill="#21162c" d="M0 0h960v76H0z"/>
+  <path fill="url(#scan)" d="M0 0h960v76H0z"/>
+  <path fill="#ffb627" d="M0 0h960v3H0z"/>
+  <path fill="#c94a36" d="M0 73h960v3H0z"/>
+  <use href="#slashes" x="53" y="27"/>
+  <use href="#slashes" x="876" y="27"/>
+  <g font-family="monospace" font-size="25" font-weight="bold">
+    <text x="456" y="46" text-anchor="end" letter-spacing="2" fill="#ffe195">PLAYER 2</text>
+    <path d="M480 30l12 8-12 8z" fill="#ff6138">
+      <animate attributeName="opacity" values="1;.5;1" dur="2s" repeatCount="3"/>
+    </path>
+    <text x="513" y="46" letter-spacing="2" fill="#fff1de">PRESS START</text>
+  </g>
+</svg>
